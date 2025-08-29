@@ -1,0 +1,22 @@
+[
+  {
+    "remote": "github",
+    "repository": "PixelOS-Devices/android_hardware_oplus",
+    "target_path": "hardware/oplus"
+  },
+  {
+    "remote": "github",
+    "repository": "PixelOS-Devices/android_kernel_oneplus_sm8550",
+    "target_path": "kernel/oneplus/sm8550"
+  },
+  {
+    "remote": "github",
+    "repository": "PixelOS-Devices/android_device_oneplus_sm8550-kernel",
+    "target_path": "device/oneplus/sm8550-kernel"
+  },
+  {
+    "remote": "github",
+    "repository": "PixelOS-Devices/android_kernel_oneplus_sm8550-modules",
+    "target_path": "kernel/oneplus/sm8550-modules"
+  }
+]
